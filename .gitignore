@@ -1,0 +1,7 @@
+venv/
+venv313/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+IMDB Dataset.csv
+cleaned_IMDB_Dataset.csv
